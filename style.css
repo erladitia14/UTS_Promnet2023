@@ -1,0 +1,9 @@
+.img-container {
+  display: inline-block;
+}
+
+.img-text {
+  width: 100%;
+  font-size: 24px;
+  font-weight: bold;
+}
